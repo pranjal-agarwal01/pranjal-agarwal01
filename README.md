@@ -1,138 +1,63 @@
-<div align="center">
+<a href="https://pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/header.svg"><img alt="Pranjal Agarwal. Products that ship, not demos that die in notebooks. Open to SDE, full-stack and ML roles." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/header.svg" width="100%"></picture></a>
 
-# Hi, I'm Pranjal Agarwal 👋
+<p align="center">
+  <a href="https://pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/btn-portfolio.svg"><img alt="Portfolio" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/btn-portfolio.svg" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/pranjal-agarwal01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/btn-linkedin.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/btn-linkedin.svg" height="40"></picture></a>
+  <a href="mailto:agarwalpranjal2006@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/btn-email.svg"><img alt="Email" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/btn-email.svg" height="40"></picture></a>
+  <a href="https://drive.google.com/file/d/10pPUyGeQlVScCIfxFWTPyAespluQnyCc/view"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/btn-resume-swe.svg"><img alt="Résumé · SWE" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/btn-resume-swe.svg" height="40"></picture></a>
+  <a href="https://drive.google.com/file/d/1MHN6AeDM0Cld79VZSwS21Gejd-SE_MJv/view"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/btn-resume-ml.svg"><img alt="Résumé · ML/CV" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/btn-resume-ml.svg" height="40"></picture></a>
+</p>
 
-### Full-stack engineer · Computer vision · AI agents
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/terminal.svg"><img alt="whoami: Pranjal Agarwal, final-year B.Tech CSE at Lovely Professional University. Focus: full-stack, computer vision, AI agents and automation. Open to SDE, full-stack and ML roles, and freelance n8n automation." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/terminal.svg" width="100%"></picture>
 
-Final-year B.Tech CSE student at Lovely Professional University.<br>
-I build software that gets deployed and keeps running — with tests, CI and a live demo you can click.
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pranjalagarwal.me-2856c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranjalagarwal.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/pranjal-agarwal01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalpranjal2006@gmail.com)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/section-featured.svg"><img alt="01 Featured work" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/section-featured.svg" width="100%"></picture>
 
-</div>
+<p align="center">
+  <a href="https://github.com/pranjal-agarwal01/Station-Facility-Monitor-Escalator-using-Computer-Vision-"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-stationwatch.svg"><img alt="StationWatch: Flags stopped escalators straight from existing CCTV footage. No new hardware, no training data: YOLO11 plus optical flow, running in your browser. 0 false alarms across 8 benchmark scenarios." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-stationwatch.svg" width="49%"></picture></a>
+  <a href="https://github.com/pranjal-agarwal01/SupplySenseAI---Prototype-Phase1"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-supplysense.svg"><img alt="SupplySense AI: Forecasts material demand with five from-scratch time-series models, then turns each forecast into reorder points and purchase orders. 30 automated tests · CI on every push." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-supplysense.svg" width="49%"></picture></a>
+  <a href="https://github.com/pranjal-agarwal01/Debator"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-debator.svg"><img alt="Debator: Two AI agents debate any motion while a judge scores every turn. Code, not the model, totals the rubric, so the verdict can't be faked. Output tokens per debate: 27k → 3.8k." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-debator.svg" width="49%"></picture></a>
+  <a href="https://github.com/pranjal-agarwal01/Everlink"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-everlink.svg"><img alt="Everlink: Short links you can repoint at any time, so the link on a résumé, QR code or bio never breaks when the destination moves. Atomic click counts · JWT + bcrypt auth." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-everlink.svg" width="49%"></picture></a>
+  <a href="https://github.com/pranjal-agarwal01/Event-Booking"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-booking.svg"><img alt="Event Booking API: A Spring Boot booking API built for the hardest case: two people grabbing the last seat in the same millisecond. Exactly one wins. 50 threads · 1 seat · 1 winner, tested on Postgres." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-booking.svg" width="49%"></picture></a>
+  <a href="https://github.com/pranjal-agarwal01/AI_Newsletter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-newsletter.svg"><img alt="AI Newsletter: Collects AI news from RSS, Hacker News and arXiv, ranks it against a reader profile and emails an LLM-written digest. Runs twice a day on GitHub Actions, no server." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-newsletter.svg" width="49%"></picture></a>
+  <a href="https://github.com/pranjal-agarwal01/Smart-Emergency-Vehicle-Clearance-System-SEVCS-"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-sevcs.svg"><img alt="SEVCS: Detects and tracks vehicles in traffic video and flags the ones blocking an emergency-vehicle lane. YOLOv8 on KITTI · 20-trial Optuna search." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-sevcs.svg" width="49%"></picture></a>
+  <a href="https://pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/card-more.svg"><img alt="pranjalagarwal.me: Case studies, blog posts, client automation work and both résumés, all in one place. Visit the portfolio." src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/card-more.svg" width="49%"></picture></a>
+</p>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/section-live.svg"><img alt="02 Try it live" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/section-live.svg" width="100%"></picture>
 
-## 🚀 About me
+<p align="center">
+  <a href="https://stationwatch.pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/live-stationwatch.svg"><img alt="StationWatch live demo" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/live-stationwatch.svg" width="23.5%"></picture></a>
+  <a href="https://supplysenseai.pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/live-supplysense.svg"><img alt="SupplySense AI live demo" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/live-supplysense.svg" width="23.5%"></picture></a>
+  <a href="https://debator.pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/live-debator.svg"><img alt="Debator live demo" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/live-debator.svg" width="23.5%"></picture></a>
+  <a href="https://booking-api-rdhs.onrender.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/live-booking.svg"><img alt="Booking API live demo" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/live-booking.svg" width="23.5%"></picture></a>
+</p>
+<p align="center"><sub>Demos run on free hosting, so the first visit can take up to a minute to wake up.</sub></p>
 
-- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (2023 – 2027)
-- 🛠️ I work across the stack: React and Node.js products, Python and Java backends, computer-vision pipelines and multi-agent LLM systems
-- ⚙️ I also build n8n automation pipelines for freelance clients
-- 🔍 Open to **SDE, full-stack and ML roles**
-- 📍 India
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/section-toolbox.svg"><img alt="03 Toolbox" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/section-toolbox.svg" width="100%"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/toolbox.svg"><img alt="Toolbox. Languages: Python, Java, JavaScript, TypeScript, SQL; Frontend: React, Next.js, Tailwind CSS, Vite; Backend &amp; Data: Node.js, Express, FastAPI, Spring Boot, MongoDB, PostgreSQL; Ai &amp; Vision: PyTorch, OpenCV, YOLO, LangChain, Hugging Face, Optuna; Cloud &amp; Tools: Docker, GitHub Actions, Git, Vercel, Render, n8n" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/toolbox.svg" width="100%"></picture>
 
-## 🏗️ Featured projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/section-activity.svg"><img alt="04 Activity" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/section-activity.svg" width="100%"></picture>
 
-### 🚉 [StationWatch](https://github.com/pranjal-agarwal01/Station-Facility-Monitor-Escalator-using-Computer-Vision-) — escalator fault detection from CCTV
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/output/snake-dark.svg"><img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/output/snake-light.svg" width="100%"></picture>
 
-Tells you whether an escalator is **working**, **stopped with people on it** or **idle**, using the CCTV camera that's already pointed at it. No new hardware and no training data. It combines YOLO11 person detection, dense optical flow and a hysteresis state machine, and raised **zero false fault alarms across 8 benchmark scenarios**. The demo runs entirely in your browser.
+<details>
+<summary><b>Text version of the projects</b> (for screen readers and quick copying)</summary>
 
-**Stack:** Python · OpenCV · YOLO11 · ONNX Runtime Web · GitHub Actions CI<br>
-▶️ **[Live demo](https://stationwatch.pranjalagarwal.me)** · 💻 [Code](https://github.com/pranjal-agarwal01/Station-Facility-Monitor-Escalator-using-Computer-Vision-)
+| Project | What it does | Links |
+| --- | --- | --- |
+| **StationWatch** | Flags stopped escalators straight from existing CCTV footage. No new hardware, no training data: YOLO11 plus optical flow, running in your browser. 0 false alarms across 8 benchmark scenarios. | [Live demo](https://stationwatch.pranjalagarwal.me) · [Code](https://github.com/pranjal-agarwal01/Station-Facility-Monitor-Escalator-using-Computer-Vision-) |
+| **SupplySense AI** | Forecasts material demand with five from-scratch time-series models, then turns each forecast into reorder points and purchase orders. 30 automated tests · CI on every push. | [Live demo](https://supplysenseai.pranjalagarwal.me) · [Code](https://github.com/pranjal-agarwal01/SupplySenseAI---Prototype-Phase1) |
+| **Debator** | Two AI agents debate any motion while a judge scores every turn. Code, not the model, totals the rubric, so the verdict can't be faked. Output tokens per debate: 27k → 3.8k. | [Live demo](https://debator.pranjalagarwal.me) · [Code](https://github.com/pranjal-agarwal01/Debator) |
+| **Everlink** | Short links you can repoint at any time, so the link on a résumé, QR code or bio never breaks when the destination moves. Atomic click counts · JWT + bcrypt auth. | [Code](https://github.com/pranjal-agarwal01/Everlink) |
+| **Event Booking API** | A Spring Boot booking API built for the hardest case: two people grabbing the last seat in the same millisecond. Exactly one wins. 50 threads · 1 seat · 1 winner, tested on Postgres. | [Live demo](https://booking-api-rdhs.onrender.com) · [Code](https://github.com/pranjal-agarwal01/Event-Booking) |
+| **AI Newsletter** | Collects AI news from RSS, Hacker News and arXiv, ranks it against a reader profile and emails an LLM-written digest. Runs twice a day on GitHub Actions, no server. | [Code](https://github.com/pranjal-agarwal01/AI_Newsletter) |
+| **SEVCS** | Detects and tracks vehicles in traffic video and flags the ones blocking an emergency-vehicle lane. YOLOv8 on KITTI · 20-trial Optuna search. | [Code](https://github.com/pranjal-agarwal01/Smart-Emergency-Vehicle-Clearance-System-SEVCS-) |
 
-### 📦 [SupplySense AI](https://github.com/pranjal-agarwal01/SupplySenseAI---Prototype-Phase1) — demand forecasting & inventory optimisation
+</details>
 
-Forecasts material demand with five time-series models written from scratch and picks the best one per material using rolling-origin cross-validation. It then turns each forecast into safety stock, reorder points and order quantities, and runs purchase orders from request to receipt. Multi-tenant with role-based access, **30 automated tests** and CI.
+<a href="https://pranjalagarwal.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/dark/footer.svg"><img alt="Let's build something that ships. pranjalagarwal.me" src="https://raw.githubusercontent.com/pranjal-agarwal01/pranjal-agarwal01/main/assets/light/footer.svg" width="100%"></picture></a>
 
-**Stack:** React 19 · Node.js · Express 5 · MongoDB · Chart.js<br>
-▶️ **[Live demo](https://supplysenseai.pranjalagarwal.me)** · 💻 [Code](https://github.com/pranjal-agarwal01/SupplySenseAI---Prototype-Phase1)
-
-### ⚖️ [Debator](https://github.com/pranjal-agarwal01/Debator) — multi-agent AI debate arena
-
-One agent argues FOR a motion, one argues AGAINST, and a judge agent scores every turn on a weighted rubric. Code, not the model, totals the scores and picks the winner, so the verdict can't be faked. Debates stream live over SSE and resume after a server restart. Tuning cut output tokens per debate from **27k to 3.8k**.
-
-**Stack:** Python · FastAPI · PostgreSQL · Azure OpenAI · 34 tests<br>
-▶️ **[Live demo](https://debator.pranjalagarwal.me)** · 💻 [Code](https://github.com/pranjal-agarwal01/Debator)
-
-### 🔗 [Everlink](https://github.com/pranjal-agarwal01/Everlink) — links that never break
-
-A URL shortener where you can repoint a link at any time, so the link on your résumé, a printed QR code or your bio keeps working after the destination moves. It supports custom or generated slugs, click tracking with an atomic counter, JWT auth over bcrypt-hashed passwords, and rate limiting.
-
-**Stack:** React · Node.js · Express · MongoDB<br>
-💻 [Code](https://github.com/pranjal-agarwal01/Everlink)
-
-### 🎟️ [Event Booking API](https://github.com/pranjal-agarwal01/Event-Booking) — the last-seat race, solved
-
-A Spring Boot API built around the bug most booking systems skip: two people booking the last seat in the same millisecond. Exactly one wins. **A 50-thread test proves it** against real PostgreSQL for both optimistic and pessimistic locking. Also includes JWT with refresh-token rotation, Flyway migrations and a Docker build.
-
-**Stack:** Java 21 · Spring Boot 3 · PostgreSQL · Testcontainers · Docker<br>
-▶️ **[Live demo](https://booking-api-rdhs.onrender.com)** <sub>(free hosting — the first visit can take a minute to wake up)</sub> · 💻 [Code](https://github.com/pranjal-agarwal01/Event-Booking)
-
-### 📰 [AI Newsletter](https://github.com/pranjal-agarwal01/AI_Newsletter) — a personalised AI news digest, twice a day
-
-Collects AI news from RSS blogs, Hacker News and arXiv. It removes duplicate stories, ranks what's left against a reader profile, then uses a single LLM call to pick and summarise the ~10 items that matter and emails the digest. It runs on a schedule in GitHub Actions, with no server to keep alive.
-
-**Stack:** Python · GitHub Actions · SQLite · OpenRouter<br>
-💻 [Code](https://github.com/pranjal-agarwal01/AI_Newsletter) · 🔁 [Run history](https://github.com/pranjal-agarwal01/AI_Newsletter/actions)
-
-### 🚑 [SEVCS](https://github.com/pranjal-agarwal01/Smart-Emergency-Vehicle-Clearance-System-SEVCS-) — clearing the way for emergency vehicles
-
-A traffic-video pipeline that detects and tracks vehicles and flags the ones blocking an emergency-vehicle lane, logging each one. The detector is YOLOv8 fine-tuned on the KITTI dataset, using a scripted KITTI-to-YOLO conversion and train/val split, and tuned with a **20-trial Optuna search**. SORT handles tracking.
-
-**Stack:** Python · YOLOv8 · PyTorch · Optuna · OpenCV<br>
-💻 [Code](https://github.com/pranjal-agarwal01/Smart-Emergency-Vehicle-Clearance-System-SEVCS-)
-
----
-
-## 🧠 Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML & computer vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Tools & platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-<div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com?user=pranjal-agarwal01&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's connect
-
-Open to SDE, full-stack and ML roles, and to freelance automation work.<br>
-The fastest way to reach me is [email](mailto:agarwalpranjal2006@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pranjal-agarwal01). More about my work at **[pranjalagarwal.me](https://pranjalagarwal.me)**.
+<!-- Artwork is generated by tools/generate.py; edit the data there and re-run. -->
